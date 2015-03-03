@@ -1,0 +1,9 @@
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\bin\Debug\L2AuthD.exe.config
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\bin\Debug\L2AuthD.exe
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\bin\Debug\L2AuthD.pdb
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\obj\Debug\L2AuthD.csprojResolveAssemblyReference.cache
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\obj\Debug\L2AuthD.Form1.resources
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\obj\Debug\L2AuthD.Properties.Resources.resources
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\obj\Debug\L2AuthD.csproj.GenerateResource.Cache
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\obj\Debug\L2AuthD.exe
+D:\Login_Server_L2_C#(NEW)\L2AuthD\L2AuthD\obj\Debug\L2AuthD.pdb
